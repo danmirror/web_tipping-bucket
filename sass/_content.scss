@@ -1,0 +1,27 @@
+// .chart{
+//    width: 80rem;
+//    height: 5rem;
+// }
+.container{
+   padding: 50px 10em;
+}
+.title{
+   text-align: center;
+}
+hr{
+   width: 20rem;
+   border: 1px solid #111;
+}
+
+
+@media (max-width: 768px) {
+   .chart{
+      width: 350px;
+      height: 20rem;
+      
+   }
+   .container{
+      padding: 50px 0em !important;
+   }
+   
+}
