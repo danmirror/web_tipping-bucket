@@ -1,5 +1,5 @@
 # web_tipping-bucket
-> Basic web API for IOT
+> Basic web API for IOT Tipping bucket sensor 
 
 ### Requirement
 - [x] local web server (apache, NginX,etc)
